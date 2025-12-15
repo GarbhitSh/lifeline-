@@ -1,5 +1,7 @@
 # Lifeline
 Lifeline is a real-time monitoring and alerting system designed to enhance safety in industrial environments. Leveraging IoT technology and cloud-based infrastructure, Lifeline detects toxic conditions and alerts workers promptly, mitigating the risk of occupational illnesses and injuries. The user-friendly mobile application provides instant alerts and customizable settings, empowering workers to make informed decisions about their safety. Lifeline's rugged rover platform extends monitoring capabilities to remote areas, ensuring comprehensive surveillance and proactive risk management.
+
+
 **Key Features of Lifeline:**
 
 1. **Real-time Monitoring:** Lifeline provides real-time monitoring of toxic conditions in industrial environments, ensuring immediate detection of hazardous substances.
